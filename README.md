@@ -185,7 +185,6 @@ A Java-based digital bookstore supporting **Reader, Author and Admin** roles.
 
 ## 🎯 Current Focus
 
-``yaml
 Learning:
   - Data Structures & Algorithms
   - FastAPI
