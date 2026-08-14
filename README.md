@@ -163,32 +163,6 @@ A Java-based digital bookstore supporting **Reader, Author and Admin** roles.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Diyalad-2501&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyalad-2501&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Diyalad-2501&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Diyalad-2501&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
