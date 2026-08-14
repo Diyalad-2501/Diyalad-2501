@@ -211,7 +211,7 @@ A Java-based digital bookstore supporting **Reader, Author and Admin** roles.
 
 ## 🎯 Current Focus
 
-```yaml
+``yaml
 Learning:
   - Data Structures & Algorithms
   - FastAPI
@@ -233,3 +233,8 @@ Open To:
   - Full-Stack Development
   - Data Analytics Projects
   - Open-Source Collaboration
+🤝 Connect With Me
+<div align="center">
+  <a href="https://github.com/Diyalad-2501">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"> </a> 
+  <a href="https://www.linkedin.com/in/diya-lad-788111382/"> <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:laddiya2007@gmail.com"> <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
