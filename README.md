@@ -206,7 +206,8 @@ Open To:
   - Full-Stack Development
   - Data Analytics Projects
   - Open-Source Collaboration
-🤝 Connect With Me
+
+## 🤝 Connect With Me
 <div align="center">
   <a href="https://github.com/Diyalad-2501">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"> </a> 
